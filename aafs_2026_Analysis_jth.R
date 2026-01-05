@@ -1,6 +1,6 @@
 ################################################################################
 # TITLE:  AAFS 2026 - Passalacqua Network Dashboard (Ego-Kawa)
-# AUTHORS: Joe Hefner, Nick Passalacqua, Natalie Clark [with Quill]
+# AUTHORS: Joe Hefner, Nick Passalacqua, Natalie Clark [with Quill (ChatGPT)]
 # LAST UPDATED: 2025-11-06  (V1.4: Institution Type color+analytics; fixed palette)
 ################################################################################
 rm(list = ls())
@@ -1300,6 +1300,7 @@ newFigure2 <- ggplot(
   )
 
 newFigure2
+
 
 
 
